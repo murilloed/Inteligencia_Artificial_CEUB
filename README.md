@@ -72,17 +72,26 @@ Esse exemplo permite discutir, de forma integrada, linguagem natural, classifica
 
 ## Atividade avaliativa
 
-A atividade avaliativa apresenta um cenario em que uma instituicao de ensino deseja criar um agente conversacional para apoiar estudantes.
+Criar um GPT simples, dentro do ChatGPT, capaz de responder perguntas dos alunos com base no conteúdo de um PDF acadêmico oficial do curso de Engenharia de Software do CEUB.
 
-Os alunos devem:
+Objetivos Específicos
 
-- identificar componentes de IA e de software no sistema;
-- diferenciar PLN e Aprendizado de Maquina;
-- apontar limites para automacao;
-- propor metricas de avaliacao;
-- aplicar a logica do pseudocodigo a uma pergunta financeira.
+Ao final da atividade, o aluno deverá ser capaz de:
 
-O arquivo da atividade contem tambem o **gabarito comentado** e uma **rubrica resumida** para avaliacao.
+Compreender o funcionamento básico de um GPT personalizado;
+Utilizar um documento PDF como base de conhecimento;
+Criar instruções adequadas para orientar o comportamento do agente;
+Diferenciar componentes de IA e componentes de software no sistema;
+Identificar o papel do Processamento de Linguagem Natural no agente;
+Compreender os limites da automação em contexto acadêmico;
+Propor métricas simples para avaliar a qualidade das respostas;
+Testar o agente com perguntas reais de alunos.
+
+Descrição da Atividade
+
+Os alunos deverão criar um GPT simples no ChatGPT com a finalidade de responder dúvidas acadêmicas sobre o curso de Engenharia de Software do CEUB.
+
+Para isso, deverão utilizar como base de conhecimento o PDF disponibilizado pelo professor, contendo informações oficiais do curso.
 
 ## Como usar este material
 
